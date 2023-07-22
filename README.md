@@ -1,4 +1,4 @@
-https://unsplash.com/photos/s_jdVrCfT30
+
 <h1 align="center">Hi 👋, I'm Ahmed Nur Dahir</h1>
 <h3 align="center">A passionate full stack developer from Somalia</h3>
 
